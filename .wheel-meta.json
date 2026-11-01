@@ -1,0 +1,22 @@
+{
+  "wheel_id": 617,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-104",
+  "project": "kitchen-renovations-melbourne-north-myths-48885a51e733800867db6",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-151",
+  "node_role": "feeder",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north myths",
+  "intended_url": "https://sitesau.github.io/melbournenorthkitchenrenovation-104/",
+  "tier": "T2",
+  "writeback_nonce": "1b56dfa6b444481f",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-planning-guide-c60e5108a76e/",
+      "anchor": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-planning-guide-c60e5108a76e/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
